@@ -1,21 +1,14 @@
-## Hi there 👋
+### Hi there! 👋 I'm Albin Wrebo
 
-<!--
-**beforeAW/beforeaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- 🎓 Currently studying Fullstack Open Source at Chas Academy
+- 💻 Passionate about learning the future of technology
+- 🏕️ Experienced in teamwork and leadership through scouting
+- 🎶 Creative and passionate musician
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=albwr01)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beforeaw&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/beforeAW/github-readme-stats))
--->
+🛠 **Skills:**
+- **Languages & Frameworks:** HTML5, CSS, SASS, PHP, Laravel
+  <!--React, Angular, jQuery, Express, JavaScript, TypeScript,
+- **Tools & Platforms:** Git, GitHub, VSCode, Figma, Docker, Herd
+  <!-- MongoDB
 
