@@ -12,4 +12,4 @@
   <!-- MongoDB
   <!--React, Angular, jQuery, Express, 
 Listening to:
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ff7b00&bar_color_cover=true)]]
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ff7b00&bar_color_cover=true)]]
