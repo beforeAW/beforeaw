@@ -7,7 +7,7 @@
 - 🎶 Creative and passionate musician
 
 🛠 **Skills:**
-- **Languages & Frameworks:** HTML5, CSS, SASS, PHP, Laravel
-- **Tools & Platforms:** Git, GitHub, VSCode, Figma, Docker, Herd
+- **Languages & Frameworks:** HTML5, CSS, SASS, PHP, Laravel, JavaScript, TypeScript
+- **Tools & Platforms:** Git, GitHub, VSCode, Figma, Docker, Herd, MongoDB
   <!-- MongoDB
   <!--React, Angular, jQuery, Express, JavaScript, TypeScript,
