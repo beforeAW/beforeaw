@@ -1,15 +1,39 @@
-### Hi there! 👋 I'm Albin Wrebo
+# 👋 Hi, I'm Albin Wrebo
 
-🚀 **About Me:**
-- 🎓 Currently studying Fullstack Open Source at Chas Academy
-- 💻 Passionate about learning the future of technology
-- 🏕️ Experienced in teamwork and leadership through scouting
-- 🎶 Creative and passionate musician
+## 🚀 About Me
 
-🛠 **Skills:**
-- **Languages & Frameworks:** HTML5, CSS, SASS, SQL, PHP, Laravel, JavaScript, TypeScript, Express
-- **Tools & Platforms:** Git, GitHub, VSCode, Figma, Docker, Herd, MongoDB
-  <!-- MongoDB
-  <!--React, Angular, jQuery, Express, 
-Listening to:
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=albwr01&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ff7b00&bar_color_cover=true)]]
+🎓 I'm currently studying **Fullstack Open Source** at **Chas Academy**  
+💻 Passionate about **future technologies**, innovation, and lifelong learning  
+🏕️ Built strong **leadership & teamwork skills** through years in scouting  
+🎶 A **creative soul** with a deep love for music and expression
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- **HTML5**, **CSS3**, **SASS**
+- **JavaScript**, **TypeScript**
+
+### 🧠 Backend
+- **PHP**, **Laravel**
+- **Node.js**, **Express**
+- **SQL**, **MongoDB**
+
+### 🔧 Tools & Platforms
+- **Git & GitHub**
+- **VSCode**
+- **Docker**
+- **Figma**
+- **Herd**
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out or collaborate on cool projects!  
+You can find me on [LinkedIn](https://www.linkedin.com/in/albin-wrebo-94233996/) 
+
+---
+
+> "Code is like music – both are creative, structured, and made to be shared." 🎵
