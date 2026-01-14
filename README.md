@@ -61,3 +61,6 @@
 <h3 align="center">
   🎵 Code is like music – both are creative, structured, and made to be shared.
 </h3>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=beforeaw&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</p>
